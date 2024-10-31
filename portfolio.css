@@ -8,11 +8,25 @@ body {
     flex-direction: column;
     align-items: center;
 }
+nav ul {
+    display: flex;
+    justify-content: center;
+    background-color: beige;
+    padding: 10px;
+}
 
+nav ul li {
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;}
 header {
     text-align: center;
     padding: 60px 20px;
-    background-color: #222;
+    background-color: cadetblue;
     color: #fff;
     width: 100%;
     animation: fadeIn 2s ease-in;
@@ -63,7 +77,7 @@ header p {
 }
 
 .skill {
-    background-color: skyblue;
+    background-color: teal;
     color: #fff;
     padding: 10px 20px;
     border-radius: 5px;
