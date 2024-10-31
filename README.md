@@ -1,1 +1,1 @@
-this is my first portfolio project, deployed on nelify :)
+this is my first portfolio project, deployed (almost) on nelify :)
